@@ -226,7 +226,7 @@ sum(as.numeric(ct.df$count))
 # Explorer address bar, then switch the slashes
 
 getwd() # Where is the working directory?
-setwd("~/Desktop/BITW-Workshop")  #In a Mac, it's easier
+setwd("~/Desktop/BITW-Workshop")  #set for a Mao OS
 
 dir() #See what is in directory
 list.files() #does same as above but may take longer
