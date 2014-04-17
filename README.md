@@ -17,3 +17,13 @@ Workshop participants explored:
 
 
 [Visit VertNet Workshops!](http://www.vertnet.org/resources/workshops.html)
+
+Tutorial Scripts:
+
+* [Introduction to R for complete beginners!](https://github.com/mkoo/BITW/blob/master/Tues.IntroductionR.r)
+
+* [Acquiring and Exploring Species Occurrence data](https://github.com/mkoo/BITW/blob/master/Tues.Acquiring%26Exploring_species.r)
+
+* [Species Distribution Modeling in R](https://github.com/mkoo/BITW/blob/master/SDM_Bioclim_maxent.R)
+
+Related Gists (basically made up on-demand from participants): [R snippets](https://gist.github.com/mkoo)
