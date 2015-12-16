@@ -1,4 +1,4 @@
-![](http://www.vertnet.org/images/VNLogo_Full_Transparent-303x85.png)  BITW
+![](http://www.vertnet.org/images/VNLogo_Full_Transparent-303x85.png)  Biodiversity Informatics Training Workshops
 ====
 
 Biodiversity Informatics Training Workshops, developed for VertNet (NSF-funded).
@@ -13,7 +13,9 @@ Workshop participants explored:
 * Species distribution modeling approaches
 * Dissemination, education, and outreach mechanisms (e.g., citizen science)
 
->The goal of these workshops was to provide a conceptual framework and hands-on experience with a suite of data sources such as VertNet (including MaNIS, FishNet, HerpNET, and ORNIS), Encyclopedia of Life, Map of Life, and other software tools (e.g., OpenRefine, GEOLocate, Quantum GIS, R Statistics, ArcGIS, Maxent). 
+The goal of these workshops was to provide a conceptual framework and hands-on experience with a suite of data sources such as VertNet (including MaNIS, FishNet, HerpNET, and ORNIS), Encyclopedia of Life, Map of Life, and other software tools (e.g., OpenRefine, GEOLocate, Quantum GIS, R Statistics, ArcGIS, Maxent). 
+
+Since then, the BITW have continued in new venues at UC Berkeley and beyond.
 
 
 [Visit VertNet Workshops!](http://www.vertnet.org/resources/workshops.html)
