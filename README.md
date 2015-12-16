@@ -1,4 +1,5 @@
-![](http://www.vertnet.org/images/VNLogo_Full_Transparent-303x85.png)  Biodiversity Informatics Training Workshops
+![](http://www.vertnet.org/images/VNLogo_Full_Transparent-303x85.png)  
+Biodiversity Informatics Training Workshops
 ====
 
 Biodiversity Informatics Training Workshops, developed for VertNet (NSF-funded).
