@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 ![](http://www.vertnet.org/images/VNLogo_Full_Transparent-303x85.png)  
 Biodiversity Informatics Training Workshops
 ====
@@ -61,4 +60,4 @@ Tutorial Scripts:
 * [Species Distribution Modeling in R](https://github.com/mkoo/BITW/blob/master/SDM_Bioclim_maxent.R)
 
 Related Gists (basically made up on-demand from participants): [R snippets](https://gist.github.com/mkoo)
->>>>>>> Stashed changes
+
