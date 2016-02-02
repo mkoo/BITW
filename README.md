@@ -28,10 +28,10 @@ The goal of these workshops was to provide a conceptual framework and hands-on e
 
 Tutorial Scripts:
 
-* [Introduction to R for complete beginners!](https://github.com/mkoo/BITW/blob/master/Tues.IntroductionR.r)
+* [Introduction to R for complete beginners!](https://github.com/mkoo/BITW/blob/master/VertNet2013/Tues.IntroductionR.r)
 
-* [Acquiring and Exploring Species Occurrence data](https://github.com/mkoo/BITW/blob/master/Tues.Acquiring%26Exploring_species.r)
+* [Acquiring and Exploring Species Occurrence data](https://github.com/mkoo/BITW/blob/master/VertNet2013/Tues.Acquiring%26Exploring_species.r)
 
-* [Species Distribution Modeling in R](https://github.com/mkoo/BITW/blob/master/SDM_Bioclim_maxent.R)
+* [Species Distribution Modeling in R](https://github.com/mkoo/BITW/blob/master/VertNet2013/SDM_Bioclim_maxent.R)
 
 ***Related Gists*** (basically made up on-demand from participants):   [R snippets](https://gist.github.com/mkoo)
