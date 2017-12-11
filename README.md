@@ -1,7 +1,7 @@
 
 
 
-=======
+
 ![](http://www.vertnet.org/images/VNLogo_Full_Transparent-303x85.png)  
 Biodiversity Informatics Training Workshops
 ====
