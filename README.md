@@ -24,7 +24,7 @@ The goal of these workshops was to provide a conceptual framework and hands-on e
 
 **Now: UC Berkeley and beyond**
 
-[Geospatial Innovation Facility Workshops](http://gif.berkeley.edu/support/workshops.html/)
+[Geospatial Innovation Facility Workshop in Modeling](http://gif.berkeley.edu/support/workshop_descriptions.html#modeling)
 
 Tutorial Scripts:
 
